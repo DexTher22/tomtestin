@@ -2,7 +2,7 @@
 * File: calcBmi.js
 * Author: Magyar Márk
 * Copyright: 2026, Magyar Márk
-* Group: Szoft V
+* Group: Szoft I/N
 * Date: 2026-03-25
 * Github: https://github.com/DexTher22/tomtestin
 * Licenc: MIT 
